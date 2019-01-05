@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\gameinCsharp\gameinCsharp\bin\Debug\gameinCsharp.exe
+C:\Users\lenovo\Desktop\gameinCsharp\gameinCsharp\bin\Debug\gameinCsharp.pdb
+C:\Users\lenovo\Desktop\gameinCsharp\gameinCsharp\obj\x86\Debug\gameinCsharp.SpellGame.resources
+C:\Users\lenovo\Desktop\gameinCsharp\gameinCsharp\obj\x86\Debug\gameinCsharp.Properties.Resources.resources
+C:\Users\lenovo\Desktop\gameinCsharp\gameinCsharp\obj\x86\Debug\gameinCsharp.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\gameinCsharp\gameinCsharp\obj\x86\Debug\gameinCsharp.exe
+C:\Users\lenovo\Desktop\gameinCsharp\gameinCsharp\obj\x86\Debug\gameinCsharp.pdb
+C:\Users\lenovo\Desktop\gameinCsharp\gameinCsharp\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\lenovo\Desktop\gameinCsharp\gameinCsharp\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\gameinCsharp\gameinCsharp\obj\x86\Debug\gameinCsharp.csproj.ResolveComReference.cache
